@@ -1,0 +1,16 @@
+.general{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content:center;
+}
+
+
+
+button{
+    border-radius: px;
+    color: aliceblue;
+    background-color: rgba(39, 35, 35, 0.6);
+    
+
+}
